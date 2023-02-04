@@ -60,6 +60,7 @@ p {
 
 .card {
   max-width: 600px;
+  border-radius: 5%;
 }
 
 .card h1 {
